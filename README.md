@@ -1,16 +1,17 @@
-## Hi there 👋
+# Bjarke Alstrup
 
-<!--
-**bjarkealstrup/bjarkealstrup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring computer science student based in Denmark. I'm currently spending my gap year preparing for university by strengthening my programming skills and exploring core CS concepts.
 
-Here are some ideas to get you started:
+## Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Learning C and Python
+- Git and version control workflows
+- Algorithms and discrete mathematics
+- Personal coding projects and learning-by-doing
+
+In addition to programming, I study Japanese and play piano as part of my personal development.
+
+## Contact
+
+- Email: bjarke.h.alstrup@gmail.com
+- Location: Odense, Denmark
